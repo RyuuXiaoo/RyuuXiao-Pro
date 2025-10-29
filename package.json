@@ -10,7 +10,7 @@
     "elrayy",
     "WhatsApp"
   ],
-  "homepage": "https://github.com/ElrayyXml/Baileys",
+  "homepage": "https://github.com/RyuuXiaoo/RyuuXiao-Pro",
   "license": "MIT",
   "author": "ElrayyXml",
   "main": "lib/index.js",
@@ -115,10 +115,11 @@
     "url": "git+https://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@github.com/ElrayyXml/Baileys.git"
   },
   "bugs": {
-    "url": "https://github.com/ElrayyXml/Baileys/issues"
+    "url": "https://github.com/RyuuXiao/RyuuXiao-Pro/issues"
   }
 
 }
+
 
 
 
